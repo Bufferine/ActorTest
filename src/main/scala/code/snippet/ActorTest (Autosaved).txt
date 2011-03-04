@@ -1,0 +1,53 @@
+SEVEN
+
+
+
+validate bet 4
+Sending message to TimeChecker 4
+validate bet 3
+Sending message to TimeChecker 3
+validate bet 5
+Sending message to TimeChecker 5
+validate bet 2
+Sending message to TimeChecker 2
+validate bet 1
+Sending message to TimeChecker 1
+Time checker scheduling callback for number 2
+Time checker scheduling callback for number 1
+validate bet 6
+Sending message to TimeChecker 6
+Time checker scheduling callback for number 3
+Time checker scheduling callback for number 5
+Time checker scheduling callback for number 4
+Time checker scheduling callback for number 6
+validate bet 7
+Sending message to TimeChecker 7
+Time checker scheduling callback for number 7
+Timechecker callback 5
+response from TimeChecker number 5 : Full(5)
+Timechecker callback 3
+response from TimeChecker number 3 : Full(3)
+Validator returning number 3 : Full(3)
+Validator returning number 5 : Full(5)
+Got Full(Full(3)) for 3
+Got Full(Full(5)) for 5
+Timechecker callback 2
+response from TimeChecker number 2 : Full(2)
+Validator returning number 2 : Full(2)
+Timechecker callback 4
+response from TimeChecker number 4 : Full(4)
+Got Full(Full(2)) for 2
+Validator returning number 4 : Full(4)
+Timechecker callback 6
+response from TimeChecker number 6 : Full(6)
+Got Full(Full(4)) for 4
+Timechecker callback 1
+response from TimeChecker number 1 : Full(1)
+Validator returning number 6 : Full(6)
+Validator returning number 1 : Full(1)
+Got Full(Full(1)) for 1
+Got Full(Full(6)) for 6
+Timechecker callback 7
+response from TimeChecker number 7 : Full(7)
+Validator returning number 7 : Full(7)
+Got Full(Full(7)) for 7
